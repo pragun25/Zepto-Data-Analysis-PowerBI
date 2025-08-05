@@ -105,7 +105,7 @@ Average delivery and service ratings remained at approximately 3.0, regardless o
 
 - The anticipated weekend order surge holds true, with weekends contributing 29.18% of total orders. Notably, festive and summer discounting drive 18.63% and 18.71% of orders respectively, however, revenue during these promotional months remains below average (around ₹3 million), raising concerns about organic retention and profitability.
   
-- A surprising surge in late-night orders (1 AM to 3 AM) is observed throughout the year, with over 1,800 orders placed during these hours. Conversely, expected afternoon peak hours (1 PM to 5 PM) record unexpectedly low order volumes, with each hour falling below 610 orders.
+- A surprising surge in late-night orders (1 AM to 3 AM) is observed throughout the year, with over 1,800 orders placed during these hours. Conversely, expected afternoon peak hours (1 PM to 5 PM) record unexpectedly low order volumes, with each hour falling below 620 orders.
   
 - Bangalore, while among the top three active cities, records an average delivery rating (2.9) below the platform average of 3. In contrast Pune, an emerging market shows the best delivery ratings (3.1) among cities.
   
@@ -117,7 +117,7 @@ Average delivery and service ratings remained at approximately 3.0, regardless o
 
 - Customer Engagement & Retention
 
-    - 1 PM to 5 PM “Hot Deals”: Launch time-sensitive push notifications, personalised email campaigns based on past orders, and limited free delivery on Zepto Cafe deals in the afternoon to boost order volume per hour during this underperforming window (currently below 610/hour).
+    - 1 PM to 5 PM “Hot Deals”: Launch time-sensitive push notifications, personalised email campaigns based on past orders, and limited free delivery on Zepto Cafe deals in the afternoon to boost order volume per hour during this underperforming window (currently below 620/hour).
 
     - Loyalty Coin Program: Introduce a system awarding one loyalty coin for every ₹50 spent, redeemable in sets of 50 coins for an additional 10% off or two months of Zepto membership directly incentivizing repeat purchases (currently 66.67% repeat rate).
 
